@@ -1,3 +1,43 @@
+# Dashboard with MUI
+
+Components used:
+
+1. AppBar
+2. Drawer
+3. Cards
+4. Tab Bar
+5. React Router
+6. Modal
+7. Context
+
+# Screenshots
+
+<p align="center">
+  <img alt="about" src="https://user-images.githubusercontent.com/40262579/224813453-5531d0cc-466a-4a85-81e1-06ac8ef24812.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="statementModal" src="https://user-images.githubusercontent.com/40262579/224813446-549e0f40-90a5-4534-8f46-4edf7cb47eaf.png" width="45%">
+</p>
+
+<p align="center">
+  <img alt="TnC" src="https://user-images.githubusercontent.com/40262579/224813452-d205a02d-5267-487e-83a0-e9b76adfb1bb.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Privacy" src="https://user-images.githubusercontent.com/40262579/224813442-b5f24365-5526-443a-b8af-ec7a6a0e6b6a.png" width="45%">
+</p>
+
+<p align="center">
+  <img alt="addressModal" src="https://user-images.githubusercontent.com/40262579/224813422-0e1dd885-52aa-4d9e-8871-3f8f1a2ea663.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="contactModal" src="https://user-images.githubusercontent.com/40262579/224813432-08763347-e108-4ccd-96b2-284b766e934f.png" width="45%">
+</p>
+
+<p align="center">
+  <img alt="editContactModal" src="https://user-images.githubusercontent.com/40262579/224813434-81036b69-1bda-400f-8c0c-a5973824b399.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="editSocialMediaModal" src="https://user-images.githubusercontent.com/40262579/224813437-1f60f805-36b3-4131-9c32-01f3907aa479.png" width="45%">
+  
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
