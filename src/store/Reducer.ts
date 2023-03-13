@@ -125,12 +125,15 @@ export const initialState: StateType = {
       secondaryPhone: 8000058214,
     },
   ],
-  socialMedia: { facebook: '', twitter: '', instagram: '', website: '' },
+  socialMedia: {
+    facebook: 'www.facebook.com/company',
+    twitter: 'www.twitter.com/company',
+    instagram: 'www.instagram.com/company',
+    website: 'www.company.com',
+  },
   statements: [
     { statement: 'You think it, we ink it.' },
-    { statement: 'You think it, we ink it.' },
-    { statement: 'You think it, we ink it.' },
-    { statement: 'You think it, we ink it.' },
+    { statement: 'Stay hungry, stay foolish.' },
   ],
   workingHours: { fromTime: '10.00 AM', toTime: '6.00 PM', fromDays: 'Monday', toDays: 'Friday' },
   termsAndConditions: {
